@@ -4,7 +4,7 @@ It is possible that a company's cash flow won't be sufficient to meet its obliga
 Projects in the fields of finance and risk analytics and management can be found in this folder. <p>
 **Click in to view this files** <br>
 Chronologically Arranged:<br>
-1. Credit Scoring Project: 
+1. Fraud Detection Project: 
 
 
 ![image](https://user-images.githubusercontent.com/111154738/189188022-e5fac74e-11ba-4a56-afb4-7ded0628f5cc.png)
